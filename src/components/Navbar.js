@@ -4,15 +4,14 @@ import { Link } from 'react-router-dom';
 
 const Navbar = () => {
   return (
-    <AppBar position="static">
+    <AppBar position="static" color="secondary">
       <Toolbar>
-        <Typography variant="h6" style={{ flexGrow: 1 }}>
-          FOODIEDELIGHT
-        </Typography>
+        <Typography style={{ flexGrow: 1 }}>
         <Button color="inherit" component={Link} to="/">
-          Home
+          FOODIEDELIGHT
         </Button>
-        <Button color="inherit" component={Link} to="/add">
+        </Typography>
+           <Button color="inherit" component={Link} to="/add" >
           Add New Restaurant
         </Button>
       </Toolbar>
