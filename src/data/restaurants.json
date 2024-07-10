@@ -1,17 +1,38 @@
 [
     {
       "id": 1,
-      "name": "Restaurant A",
-      "description": "Description for Restaurant A",
-      "location": "Location A",
-      "imageUrl": "https://via.placeholder.com/150"
+      "name": "Bella Bistro",
+      "description": "A charming Italian bistro known for its handcrafted pastas, wood-fired pizzas, and cozy ambiance. Perfect for a casual dinner with friends or a romantic evening out",
+      "location": "101, Dream Street, Fantasy City",
+      "imageUrl": "https://assets.traveltriangle.com/blog/wp-content/uploads/2017/10/The-Only-Place.jpg"
     },
     {
       "id": 2,
-      "name": "Restaurant B",
-      "description": "Description for Restaurant B",
+      "name": "Urban Eats",
+      "description": "A trendy urban café that serves a mix of contemporary American and European dishes. Known for its artisanal coffees, gourmet burgers, and eclectic interior design.",
+      "location": "303, Metropolis Boulevard, Futuria City",
+      "imageUrl": "https://assets.traveltriangle.com/blog/wp-content/uploads/2017/10/Truffles.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Spice Haven",
+      "description": "An exotic restaurant offering a delightful fusion of Indian and Thai cuisines. Enjoy a variety of spicy and aromatic dishes in a vibrant, colorful setting.",
       "location": "Location B",
-      "imageUrl": "https://via.placeholder.com/150"
+      "imageUrl": "https://assets.traveltriangle.com/blog/wp-content/uploads/2017/10/Koshys.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Ocean's Delight",
+      "description": "A seafood lover's paradise offering fresh catches daily, from succulent lobster to delicate sushi. The restaurant's nautical theme creates a serene dining experience.",
+      "location": "404, Seaside Lane, Atlantis Bay",
+      "imageUrl": "https://assets.traveltriangle.com/blog/wp-content/uploads/2017/10/Nagarjuna-Restaurant.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Garden Grille",
+      "description": "A farm-to-table restaurant that prides itself on using locally sourced ingredients to create delicious and wholesome meals. The garden-inspired décor adds to the refreshing ambiance.",
+      "location": "505, Meadow Park Drive, Eden Valley",
+      "imageUrl": "https://assets.traveltriangle.com/blog/wp-content/uploads/2017/10/Shiro.jpg"
     }
   ]
   

@@ -4,7 +4,7 @@ let restaurants = [...restaurantsData];
 
 export const getRestaurants = () => {
   return new Promise((resolve) => {
-    resolve(restaurants);
+    resolve(restaurants); 
   });
 };
 

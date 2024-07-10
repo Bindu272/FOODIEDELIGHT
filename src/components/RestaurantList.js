@@ -25,7 +25,6 @@ const RestaurantList = () => {
 
   return (
     <div className="container">
-     
       {restaurants.map((restaurant) => (
         <RestaurantItem key={restaurant.id} restaurant={restaurant} onDelete={handleDelete} />
       ))}
