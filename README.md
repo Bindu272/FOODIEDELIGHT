@@ -37,4 +37,4 @@ FOODIEDELIGHT is a ReactJS application for managing restaurants and their menus.
 
 ## Deployment
 
-This project is deployed on Vercel. You can access it [here](https://your-vercel-app-url.vercel.app/).
+This project is deployed on Vercel. You can access it [here](https://foodiedelight-seven.vercel.app/).
