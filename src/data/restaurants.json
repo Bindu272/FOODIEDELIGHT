@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Restaurant A",
+      "description": "Description for Restaurant A",
+      "location": "Location A",
+      "imageUrl": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "name": "Restaurant B",
+      "description": "Description for Restaurant B",
+      "location": "Location B",
+      "imageUrl": "https://via.placeholder.com/150"
+    }
+  ]
+  
